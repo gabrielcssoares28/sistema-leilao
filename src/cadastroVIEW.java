@@ -138,7 +138,7 @@ public class cadastroVIEW extends javax.swing.JFrame {
         
         
     }//GEN-LAST:event_cadastroNomeActionPerformed
-
+// correção no método cadastrarProduto
     private void btnCadastrarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnCadastrarActionPerformed
          try {
         ProdutosDTO produto = new ProdutosDTO();
