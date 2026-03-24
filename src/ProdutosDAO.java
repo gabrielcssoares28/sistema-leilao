@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 import java.sql.ResultSet;
 import java.util.ArrayList;
 
-
+// ajuste na conexão com banco
 public class ProdutosDAO {
     
     Connection conn;
